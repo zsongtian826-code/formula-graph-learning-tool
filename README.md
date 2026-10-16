@@ -9,7 +9,7 @@
 
 ## 試す
 
-[アプリを開く](https://cpulse621.github.io/formula-graph-learning-tool/)
+[アプリを開く](https://zsongtian826-code.github.io/formula-graph-learning-tool/)
 
 「式を追加」から選び、式の数字の箱を押して値を調整します。
 「確かめる」をオンにすると、座標や周期などの確認用の数値が表示されます。
@@ -46,7 +46,7 @@ npm run test:e2e
 
 ## 不具合・提案
 
-[Issues](https://github.com/cpulse621/formula-graph-learning-tool/issues) で受け付けます。
+[Issues](https://github.com/zsongtian826-code/formula-graph-learning-tool/issues) で受け付けます。
 式の種類・入力した値・利用したブラウザを書くと再現しやすくなります。
 スクリーンショットには氏名・学校名・メールアドレスなどの個人情報を含めないでください。
 
